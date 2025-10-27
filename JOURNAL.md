@@ -6,3 +6,8 @@
   ==================================================================
 -->
 
+## 10/27/2025 - Started the Project  
+
+Hi Guys! Today, I will be starting my project and I am really excited about the idea of my project and making it in real-life, so stay tuned for more updates!
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--b4f74c73d84cf7d833e66aad93113704b83c6027/image.png)  
+
