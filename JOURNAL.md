@@ -11,3 +11,11 @@
 Hi Guys! Today, I will be starting my project and I am really excited about the idea of my project and making it in real-life, so stay tuned for more updates!
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--b4f74c73d84cf7d833e66aad93113704b83c6027/image.png)  
 
+## 11/3/2025 - Created the Wiring Diagram  
+
+Hi Guys! Here's The Update You'll have been waiting for!
+I have now created the Wiring Diagram for the Project and will now start making the 3D Design for it.
+Also, I have changed the Project's Name from Gemini Robot to G.E.N.I.U.S. which means Gemini-Enabled Neural Intelligence Utility System.
+![Circuit](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODExNCwicHVyIjoiYmxvYl9pZCJ9fQ==--f8e598fd7a0bfef1ddac1ef61e761aad3c1c6443/Circuit.png)
+  
+
